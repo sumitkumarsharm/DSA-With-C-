@@ -61,5 +61,21 @@ int main()
     //  A B C D E
     //  A B C D E
 
+
+    // int num = 1; // initialize num to 1
+
+    // for (int i = 0; i < n; i++)
+    // {
+    //     for (int j = 0; j < n; j++)
+    //     {
+    //         cout << num << " ";
+    //         num++;
+    //     }
+    //     cout << endl;
+    // }
+    // output :-
+    // 1 2 3
+    // 4 5 6
+    // 7 8 9
     return 0;
 }
